@@ -10,6 +10,4 @@ import { PersonService } from './service/person.service';
 })
 export class AppComponent {
   title = 'app-angular';
-  item = { phoneNumber: '' };
-
 }
